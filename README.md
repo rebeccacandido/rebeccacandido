@@ -1,8 +1,7 @@
 # 🖤 Olá, mundo!
 
 Sou **graduanda em Ciência da Computação** e membro do **Turmalinas Tech**.  
-Apaixonada por tecnologia (e por café ☕), combino minha experiência em **Marketing** ao **Tech**
-para fortalecer minhas **Soft Skills** e gerar impacto positivo nos ambientes em que atuo.  
+Apaixonada por **tecnologia** & por **café ☕**, combino minha experiência em **Marketing** com o mundo **Tech** para fortalecer minhas **Soft Skills** e gerar impacto positivo nos ambientes em que atuo.
 
 Curiosa e sempre em busca de **crescimento pessoal e profissional**.  
 Adoro lidar com **pessoas e máquinas** com a mesma intensidade.  
