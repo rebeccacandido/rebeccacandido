@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, mundo!
+# 🖤 Olá, mundo!
 
 Sou **graduanda em Ciência da Computação** e membro do **Turmalinas Tech**.  
 Apaixonada por tecnologia (e por café ☕), combino minha experiência em **Marketing** ao **Tech**
