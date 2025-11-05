@@ -1,10 +1,12 @@
+*🎨 Design | 💻 Code | ☕ Coffee*
+
 # 🖤 Olá, mundo!
 
-Sou **graduanda em Ciência da Computação** e membro do **Turmalinas Tech**.  
-Apaixonada por **tecnologia** & por **café ☕**, combino minha experiência em **Marketing** com o mundo **Tech** para fortalecer minhas **Soft Skills** e gerar impacto positivo nos ambientes em que atuo.
+Me chamo Rebecca Beatriz, estudante de Ciência da Computação e membro do Turmalinas Tech.
+Apaixonada por UI/UX Design e desenvolvimento Front-End, adoro explorar o ponto onde design e código se encontram, criando interfaces funcionais e autênticas.
 
-Curiosa e sempre em busca de **crescimento pessoal e profissional**.  
-Adoro lidar com **pessoas e máquinas** com a mesma intensidade.  
+Vim do mundo do design e social media, o que me deu um olhar criativo e comunicativo pra tudo o que faço: seja desenhando telas, codando ou testando qualquer outras novas ideias.
+
 
 **Always learning. Always growing!**  
 
